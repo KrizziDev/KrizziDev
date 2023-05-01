@@ -1,10 +1,10 @@
 ## Hi there, I'm Oskar Brudz - Krizzi :wave: 
 
-### I'm a FrontEnd Developer 
+### I'm a FrontEnd Developer & Graphic Designer
 
-- 🧐 I'am currently learning React, TypeScript and Lua
+- 🧐 I'am currently learning React, TypeScript and Lua.
 - 😎 I communicate in English and Polish.
-- 🤔 I'm currently working on a GTA V server
+- 🤔 I'm currently working on a GTA V server.
 
 
 #### Contact with me:
@@ -24,6 +24,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />
 <br>
 
 ##
