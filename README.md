@@ -2,7 +2,7 @@
 
 ### I'm a FrontEnd Developer & Graphic Designer
 
-- 🧐 I'am currently learning React, TypeScript and Lua.
+- 🧐 I'am currently learning React
 - 😎 I communicate in English and Polish.
 - 🤔 I'm currently working on a GTA V server.
 
