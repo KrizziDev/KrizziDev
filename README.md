@@ -1,15 +1,10 @@
-## Hi there, I'm Oskar Brudz - Krizzi :wave: 
+## Hi there, I'm Oskar - Krizzi :wave: 
 
-### I'm a FrontEnd Developer & Graphic Designer
-
-- 🧐 I'am currently learning React
-- 😎 I communicate in English and Polish.
-- 🤔 I'm currently working on a GTA V server.
-
+### I'm a FrontEnd Developer & UI/UX/Graphic Designer
 
 #### Contact with me:
 
-- Soon
+brusie.studio
 
 #### Languages and Tools:
 
