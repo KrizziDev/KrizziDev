@@ -4,7 +4,7 @@
 
 #### Contact with me:
 
-brusie.studio
+support@brusie.studio
 
 #### Languages and Tools:
 
