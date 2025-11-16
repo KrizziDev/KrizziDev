@@ -1,6 +1,6 @@
 ## Hi there, I'm Oskar - Krizzi :wave: 
 
-### I'm a FrontEnd Developer & UI/UX/Graphic Designer
+### I'm a Web Developer & UI/UX Designer
 
 #### Contact with me:
 brusie.studio
