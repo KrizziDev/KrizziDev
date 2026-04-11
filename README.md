@@ -25,4 +25,3 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizziDev&show_icons=true&bg_color=00000000&text_color=e6e6e6&icon_color=32cd32&border_color=32cd32&title_color=32cd32&card_width=485px)
